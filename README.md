@@ -1,2 +1,2 @@
-# Initial page
+# VIM使用笔记和配置文件
 

@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [VIM使用笔记和配置文件](README.md)
 
