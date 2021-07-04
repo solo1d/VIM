@@ -56,5 +56,6 @@ vim 中的快捷按键和命令:
 
 
      获得当前文件的编码格式   :set fileencoding
+     设置当前文件的编码格式   :set fileencoding=utf8
 ```
 
