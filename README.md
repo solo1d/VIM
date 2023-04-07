@@ -59,3 +59,9 @@ vim 中的快捷按键和命令:
      设置当前文件的编码格式   :set fileencoding=utf8
 ```
 
+```bash
+尽量使用 ~/.vimrc 来配置打开文件编码
+set fileencodings=utf-8,gb18030,gbk,gb2312,ANSI,ucs-bom,cp936,big5,euc-jp,euc-kr
+
+```
+
