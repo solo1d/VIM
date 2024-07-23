@@ -58,8 +58,8 @@ vim 中的快捷按键和命令:
     直接分屏     vim -O 文件1 文件2  ; (shell命令, 直接打开两个文件并且分屏显示,竖屏)
 
 
-     获得当前文件的编码格式   :set fileencoding
-     设置当前文件的编码格式   :set fileencoding=utf8
+     获得当前文件的编码格式   :set encoding
+     设置当前文件的编码格式   :set encoding=utf-8
      
      :set display=uhex 或者 :set by=uhex  显示不可显示字符-十六进制(\r 变成 <0d>)配合 -b参数
      
